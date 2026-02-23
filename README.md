@@ -31,9 +31,10 @@ Estas são as principais linguagens e tecnologias que utilizo nos meus projetos 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Henrique-Kenzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Henrique-Kenzo&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Kenzo&layout=compact&langs_count=7&theme=tokyonight" alt="Top Linguagens" />
 </div>
+
 ---
 
 ### 📫 Como me encontrar:
