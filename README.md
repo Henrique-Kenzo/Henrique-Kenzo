@@ -3,7 +3,7 @@
 Desenvolvedor com forte domínio em **Python** e **Desenvolvimento Web**. Tenho experiência na criação de soluções completas, unindo a lógica robusta do back-end com interfaces front-end eficientes. Meu foco é construir aplicações escaláveis, otimizar processos e entregar código limpo e de alta qualidade. Atualmente, estou focado em expandir minha stack tecnológica e com disponibilidade para abraçar novos projetos e desafios profissionais.
 
 ### 🎯 O que estou fazendo agora:
-- 🔭 Desenvolvendo sistemas e automações avançadas utilizando o poder do **Python** (com um olhar especial para Cibersegurança e Ethical Hacking).
+- 🔭 Desenvolvendo sistemas e automações avançadas utilizando o poder do **Python**.
 - 💻 Criando aplicações web dinâmicas e responsivas com **HTML, CSS e JavaScript**.
 - 🌱 Elevando o nível do meu desenvolvimento web aprendendo **TypeScript** para criar aplicações mais seguras e escaláveis.
 - 🗄️ Estruturando e gerenciando bancos de dados relacionais com **PostgreSQL**.
