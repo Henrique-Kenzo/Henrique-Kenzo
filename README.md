@@ -167,11 +167,6 @@ Tenho interesse especial em projetos que envolvam sistemas de gestão, plataform
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Henrique-Kenzo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  >
-  <img
-    height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Kenzo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
     alt="Linguagens mais utilizadas"
   >
